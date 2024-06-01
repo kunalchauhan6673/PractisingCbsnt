@@ -1,3 +1,6 @@
+// X | 1931 | 1941 | 1951 | 1961 | 1971 | 1981 | 
+// Y |  12  |  15  |  20  |  27  |  39  |  52  |
+// find 1978, y=? ans: 48....
 #include<stdio.h>
 #include<math.h>
 int main(){
