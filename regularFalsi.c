@@ -1,4 +1,4 @@
-// bisection method for eq: x^3 - 2x^2 - 5
+// regularFalsi method for eq: x^3 - 2x^2 - 5
 #include<stdio.h>
 #include<math.h>
 #define e 0.001
